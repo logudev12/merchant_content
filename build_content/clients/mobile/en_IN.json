@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "login": {
+      "plTagLine": "Our platform, your move."
+    },
+    "otp": {
+      "title": "OTP Verification"
+    }
+  }
+}
